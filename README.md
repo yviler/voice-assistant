@@ -10,6 +10,3 @@ Name : Moehammad Azzriel Ilham
 
 Program : IBM Advance AI
 
-<h2>Tech Stack:</h2>
-
-Python
